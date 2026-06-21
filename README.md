@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/27dc7317-fcff-4b03-8a3e-5f2318c878c1" /># RestaurantManagerLT
 Simple restaurant management system.   
 This vibe code restaurant app.   
 i don't register for app check so window might pick it up as strange allow it.  
