@@ -6,7 +6,7 @@ i don't register for app check so window might pick it up as strange allow it.
 .just open installer RestaurantManagerLT-setup - version - .exe  
 .it will auto install all necessary files.  
 .in the future simpily run the RestaurantManagementLT.exe it create.  
-.delete installer RestaurantManagerLT - version - .exe so you won't run it by mistake again.  
+.delete installer RestaurantManagerLT-setup - version - .exe so you won't run it by mistake again.  
 .when it first open up with device id contract me  -  just copy and paste ID it pop up for me and i will generate key and give back .  
 .one key is in it will be aviable for use no limit no internet.  
  
