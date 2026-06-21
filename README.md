@@ -21,7 +21,10 @@ crypto wallet code
 since i am from myanamr i have no other way to accept international payament.
 
 email - tomatocake97@gmail.com  
-while not my main email i will check it for code generation. just request there
-
+while not my main email i will check it for code generation. just request there  
+or  
+you can check my youtube and comment there
+https://www.youtube.com/watch?v=Q3vY3p6d5Rk
+  
 Current known bug in v-1.2.0  
 if you directly print with check out and print or print before check out it will show as total 0 . so print from report if you want to see it correctly . it don't effect data at all so no need to worry about system. just total showing as 0 cos you havn't check it out yet. we will fix next time . 
