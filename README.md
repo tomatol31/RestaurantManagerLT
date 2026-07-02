@@ -7,8 +7,11 @@ i don't register for app check so window might pick it up as strange allow it.
 .it will auto install all necessary files.  
 .in the future simpily run the RestaurantManagementLT.exe it create.  
 .delete installer RestaurantManagerLT-setup - version - .exe so you won't run it by mistake again.  
-.when it first open up with device id contract me  -  just copy and paste ID it pop up for me and i will generate key and give back .  
-.one key is in it will be aviable for use no limit no internet.  
+
+  here is key to access  
+  
+  eyJjIjoiMTAyZmY2MGM3OTg0IiwibmFtZSI6IiIsImlzcyI6IjIwMjYtMDctMDIifQ.WvOPw7aWy958cSE58BfXGhgvcsJPCvY-2IedV6FLuXCcKZiAs34CVa0Hq9bO4M7tapRmq_x5raUaVk57JVqWBw  
+.once key is in it will be aviable for use no limit no internet.  
  
 .while design aim for restaurant you can also use it for other management.  
 
@@ -26,5 +29,3 @@ or
 you can check my youtube and comment there
 https://www.youtube.com/watch?v=Q3vY3p6d5Rk
   
-Current known bug in v-1.2.0  
-if you directly print with check out and print or print before check out it will show as total 0 . so print from report if you want to see it correctly . it don't effect data at all so no need to worry about system. just total showing as 0 cos you havn't check it out yet. we will fix next time . 
