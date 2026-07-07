@@ -1,6 +1,5 @@
 Simple restaurant management system.   
-This vibe code restaurant app.   
-i don't register for app check so window might pick it up as strange allow it.  
+This vibe code restaurant app.    
 
 .How to use  
 .just open installer RestaurantManagerLT-setup - version - .exe  
